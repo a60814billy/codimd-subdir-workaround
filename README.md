@@ -4,6 +4,7 @@
 1. docker, docker-compose
 1. make
 1. cfssl, cfssljson (for certificates)
+    - https://github.com/cloudflare/cfssl
 
 ## Getting started
 
