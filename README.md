@@ -11,7 +11,7 @@
 1. using `make all` to run
 2. setup your Host file (`/etc/hosts`), point `md.example.com` to your local ip address. 
 3. open your browser and navigate to `https://md.example.com/internal-codimd/` (you need trust self-signed certificate)
-4. using `make clean` to shutdown server
+4. using `make down` to shutdown server, or using `make clean-all` to cleanup all.
 ```
 $ make all
 bash-3.2$ make
