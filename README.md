@@ -1,6 +1,6 @@
 # The workaround for CodiMD sub-directory deployment
 
-## System Required
+## System Requirements
 1. docker, docker-compose
 1. make
 1. cfssl, cfssljson (for certificates)
