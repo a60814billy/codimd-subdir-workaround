@@ -1,0 +1,17 @@
+{
+  "CN": "CodiMD Dev CA",
+  "key": {
+    "algo": "rsa",
+    "size": 2048
+  },
+  "names": [
+    {
+      "C": "TW",
+      "S": "Taiwan",
+      "L": "Taipei",
+      "O": "HackMD",
+      "OU": "CodiMD"
+    }
+  ]
+}
+

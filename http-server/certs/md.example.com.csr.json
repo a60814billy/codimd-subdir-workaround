@@ -1,0 +1,20 @@
+{
+  "CN": "md.example.com",
+  "hosts": [
+    "md.example.com"
+  ],
+  "key": {
+    "algo": "rsa",
+    "size": 2048
+  },
+  "names": [
+    {
+      "C": "TW",
+      "S": "Taiwan",
+      "L": "Taipei",
+      "O": "HackMD",
+      "OU": "CodiMD"
+    }
+  ]
+}
+
